@@ -91,3 +91,7 @@ variable "db_backup_retention_days" {
 variable "deletion_protection" {
   type = bool
 }
+
+variable "test_Github_action" {
+  type = bool
+}
