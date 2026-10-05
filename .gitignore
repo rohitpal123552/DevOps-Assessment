@@ -1,0 +1,11 @@
+# terraform
+.terraform/
+*.tfstate
+*.tfstate.*
+tfplan
+plan.txt
+
+# local
+backups/
+.env
+backend_override.tf
